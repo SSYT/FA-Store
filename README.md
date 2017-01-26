@@ -7,3 +7,4 @@
   - Un design placut pe amblele versiuni
   - Posibiliatea ediatari codului
   - Disponibil in Engleza si Romana
+Download: Indisponibil
